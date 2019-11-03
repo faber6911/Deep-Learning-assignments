@@ -15,9 +15,9 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 <ul>
-  <li>Assignment #1 consists in the prediction of default payments using a neural network. The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. </li>
+  <li><a href="https://github.com/faber6911/Deep-Learning-assignments/tree/master/AML%20ASSIGNMENT%20%231">Assignment #1</a> consists in the prediction of default payments using a neural network. The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. </li>
   <br>
-  <li>Assignment #2 consists on the prediction of grayscale images of letters P - Z. The goals are:
+  <li><a href="https://github.com/faber6911/Deep-Learning-assignments/tree/master/AML%20ASSIGNMENT%20%232">Assignment #2</a> consists on the prediction of grayscale images of letters P - Z. The goals are:
     <ul>
   <li>The resolution of the problem of supervised classification with a traditional neural network (convolutional layers should not be used) with some motivations about the choices on data processing, number and dimension of the layers, optimization algorithms and regularization;</li>
   <li>The visual investigation of the reconstruction abilities of an auto-encoder architecture, i.e. comparison of the input and the reconstructed input;</li>
@@ -25,7 +25,7 @@
   </li>
     </ul>
     <br>
-  <li>The task of the Assignment #3 is the design of a CNN architecture and its training.</li>
+  <li>The task of the <a href="https://github.com/faber6911/Deep-Learning-assignments/tree/master/AML%20ASSIGNMENT%20%233">Assignment #3</a> is the design of a CNN architecture and its training.</li>
 </ul>
 
 <a name="aboutme"></a>
