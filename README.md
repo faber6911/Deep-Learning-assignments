@@ -26,6 +26,7 @@
     </ul>
     <br>
   <li>The task of the <a href="https://github.com/faber6911/Deep-Learning-assignments/tree/master/AML%20ASSIGNMENT%20%233">Assignment #3</a> is the design of a CNN architecture and its training.</li>
+  <li>The task of the <a href="https://github.com/faber6911/Deep-Learning-assignments/tree/master/AML%20ASSIGNMENT%20%234">Assignment #4</a> is Transfer Learning using a CNN pretrained on IMAGENET.</li>
 </ul>
 
 <a name="aboutme"></a>
